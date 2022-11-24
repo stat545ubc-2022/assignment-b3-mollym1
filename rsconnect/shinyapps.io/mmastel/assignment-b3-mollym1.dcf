@@ -1,0 +1,14 @@
+name: assignment-b3-mollym1
+title: assignment-b3-mollym1
+username:
+account: mmastel
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7725271
+bundleId: 6551484
+url: https://mmastel.shinyapps.io/assignment-b3-mollym1/
+when: 1669309710.6133
+lastSyncTime: 1669309710.6133
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md
